@@ -1,4 +1,0 @@
-# devops
-Master
-
-Crash course
